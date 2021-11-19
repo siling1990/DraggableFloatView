@@ -1,0 +1,19 @@
+{
+  "name": "draggablefloatview",
+  "version": "1.0.0",
+  "description": "DraggableFloatView",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siling1990/DraggableFloatView.git"
+  },
+  "author": "Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siling1990/DraggableFloatView/issues"
+  },
+  "homepage": "https://github.com/siling1990/DraggableFloatView#readme"
+}
