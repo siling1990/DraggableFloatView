@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/siling1990/DraggableFloatView/issues"
   },
-  "homepage": "https://github.com/siling1990/DraggableFloatView#readme"
+  "homepage": "https://github.com/siling1990/DraggableFloatView#readme",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.9"
+  }
 }
